@@ -52,6 +52,7 @@ dependencies:
   awesome_dialog: ^3.1.0
   webview_flutter: ^4.4.2
   foundation: ^0.0.5
+  carousel_slider: ^4.2.1
 
 dev_dependencies:
   flutter_test:
